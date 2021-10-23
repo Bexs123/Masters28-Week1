@@ -1,0 +1,24 @@
+Objects are containers that can store data and functions. We use Key-value pairs to store the data.
+
+Values can be any data type. They can even be arrays or functions.
+
+How do you access data in an object?
+By using the object.proprty: - console.log(peron.name)
+OR:-
+you can also use bracket notation
+console.log(person["name"])
+
+with brackets you can use variables to select the keys of an object.
+
+Objects are mutable which is a posh way of saying we can change them once we've made them.
+
+Using functions with Objects.
+
+Since ES6, a modern version of JavaScript its easier to declare functionsin object.
+
+You don't need the colon, nor the arrow syntax to create functions.
+
+this... means this current object
+
+So accessing this.hasSpecialOffers 
+...inside the object is the same as saying cafe.hasSpecialOffers outside of it

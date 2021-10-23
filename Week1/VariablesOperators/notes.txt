@@ -1,0 +1,45 @@
+Variables...
+
+1. Allow us to store data inside them.
+2. Access them via a name.
+3. Place new data in them whenever we want.
+
+JavaScript is a ... dynamically typed language.
+We don't need to tell it the type of data we are storing in our Variables. It just knows!
+
+How can we declare a variable
+
+let ...is used for declaring a value that CAN be changed
+const ... is used for declaring a value that CANNOT be changed. Const = Constant
+Var ... is used for declaring a value that CAN be changed. However, it is considered a legacy command now.
+
+Examples
+let i = 10;
+
+const i = 10;
+
+var i = 10; (do not use var)
+
+Strings ... for represting text
+Numbers ... for represting numbers (decimals and integers)
+Boolean ... for true and false
+Null ... for nothing
+Underfined ... for when a data type isn't determind
+
+Arithmetic Operator ... for calculations (+, -, *, **, /, %, ++, --)
+Assignment Operator ... for storing values ( =, *=, +=, /=, -=, ++, --)
+
+let i = 10;
+Assigning i to the number 10
+
+let 1 = 10;
+i = i + 2;
+// i = 12
+Arithmetic Operator
+
+let i = 10;
+i+= 2;
+// i = 12
+Assignment Operator
+
+camelCase ... it is best practice & industry standard as it enhances code readability.

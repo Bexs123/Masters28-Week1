@@ -1,0 +1,12 @@
+QUESTIONS
+
+Q1. Why would you if/else?
+
+You would use a If statement to specifiy the condition is truthy.
+Truthy is not the same as True, because true is a boolean expression that evalutes to either true or false.
+
+
+Q2. What benefit does a `Switch` have over if/else?
+
+A switch statement works much faster than an if else because a switch only decides which case has to be executed.
+Switch is more readable compare to if-else statements.

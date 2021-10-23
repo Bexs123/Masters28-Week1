@@ -1,0 +1,43 @@
+What is Javascript?
+The language of the Full Stack Developer & not just limited to websites.
+It's also the most popular language in the world.
+
+Dot Notation:-
+console.log(i);
+Object.property
+
+Example
+Car.startEngine();
+dev.makeCoffee();
+Object = car and dev
+property = startEngine amd makeCoffee
+
+Coding is all about methods and Data, which means they are intimately linked.
+
+Data Types:-
+Strings ... for representing text
+Boolean ... for true and false
+Numbers ... for representing numbers (decimals and integers)
+Null ... for nothing
+Symbol ... this data is used as the key for an object property when the property is intended to be private.
+Undefined ...for when a data type isn't determined.
+
+All data has properties ... additional data or information that is available.
+For example 'length' This will tell us how long the string is.
+All data also has methods ... methods allow us to manipulate the date type.
+Example:-
+Date Type = string
+property = length
+Methods = toLowerCase()
+Methods = toUpperCase()
+Methods = trim()
+
+Math.floor() ... returns an integer less than or equal to the specified number
+Math.ceil() ... will always round a number UP to the next largest integer
+Math.round() ... returns the value of a number rounded to the nearest integer
+
+Node allows us to run our Javascript code in our own Terminal, without this you will have to set up multiple files, 
+use Google Chrome's console and link up your files.
+
+Libraries:- 
+In coding, libraries give us access to a bunch of features that thankfully we don't have to code ourselves.

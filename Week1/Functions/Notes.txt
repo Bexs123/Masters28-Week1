@@ -1,0 +1,22 @@
+Functions...break our code up into smaller, reusable chucks.
+
+Parameters... these really make functions tick!
+
+Parameters gives functions flexibility they provide the ability for functions to act based on data inputs.
+
+We can also call on functions to do a job and return the result.
+
+Functions might call on other functions and use that to achieve its goal.
+
+Functions have so far been declared using => arrow function syntax... it's intendedto make it less wordy!
+
+There are other ways...
+function declarations
+function expressions
+
+Recap...
+Functions are written to perform a task
+Functions take data, perform a set of tasks on the data, then return the result.
+We can define parameters to be used when calling the function.
+When calling a function, we can pass in arguments, which will set the functions parameters.
+We can use return to return the result of a function and use it elsewhere.

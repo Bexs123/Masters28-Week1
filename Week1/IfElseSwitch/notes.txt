@@ -1,0 +1,27 @@
+If, Else If, Else
+
+if(condition) {
+    do this 
+}
+else if  (condition2) {
+    do this
+else {
+    if nothing else matched do this
+}
+
+Comparison Operators
+
+== Equal - Checks if the values are equal regardless of type
+=== Strict Equal - Checks if the value and type are equal
+!= Not Equal - Checks if the values are not equal regardless of type.
+!== Strict Not Equal - checks if the value and type are not equal
+>= greater than or equal too
+<= less than or equal too
+> greater than
+< less than
+% Modules - finds the reminder
+
+Logical Operators
+
+&& and ... both conditions have to be met in order for the code to run.
+|| or ... either condition can be met in order for the code to run.

@@ -1,0 +1,55 @@
+For tomorrow... take a look at variables and mathematical operators.
+
+variables:-
+
+A variables is a container for a value, like a number we might use in a sum, 
+or a string that we might use as part of a sentence.
+
+
+mathematical operators:-
+
+Arithmeic operators are has following:
++ Additional
+- Subtraction
+* Multiplication
+/ Division
+% Remainder (sometimes called modulo)
+** Exponent raises a base number to the exponent power. |The base numner multiplied by itself, exponent times.
+Example of an exponent 5 ** 2 it will return 25, which is the same as 5 * 5.
+
+
+Operator precedence:-
+The calculation is always evaluated from left to right, which means multiply and divide are always done first,
+and then add and Subtract.
+
+
+Increment and Decrement Operators:-
+
+Increment just means that you are repeatedly adding to the value.
+Example: count++;
+
+Decrement just means that you are repeatedly Subtract from the value.
+Example: count --;
+
+
+Assignment Operators:-
+
+Assignment Operators are operators that assign a value to a variable.
+Example: a+b
+
+= Addition assignment
+-= Subtraction assignment
+*= Multiplication assignment
+/= Division assignment
+
+
+Comparison operators:-
+
+comparison operators are used to run true / false tests.
+
+=== strict equality
+!== Strict non- equality
+<  less than
+> greater than
+<= less than or equal to
+>= greater than or equal to

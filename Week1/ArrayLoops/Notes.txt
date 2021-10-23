@@ -1,0 +1,41 @@
+An array... 
+Coding is all about data. Storing it, retrieving it and doing stuff with it.
+
+Like any good list we can access individual items []
+
+Javascript start counting at 0, or also refered to index.
+
+Arrays can be be updated like variables
+
+Properties work just like variables
+
+.length() on an array...
+will output the number of items in the array, not characters.
+
+.push method - adds to the end of the array
+.pop method - removes the last item from the end of the array
+
+Methods available to use in arrays...
+.map()
+.shift()
+.unshift()
+.splice()
+.unsplice()
+
+For loop in a flow diagram
+for(initialExpression, condition, increment/decrementExpression) {
+    do stuff
+}
+
+example
+for(let i = 0; i < favDrinks.length, i++) {
+    console.log(favDrinks[i]);
+}
+initialExpression - (let i = 0;)
+condition - i < favDrinks.length;
+increment/decrementExpression - i++ / i --
+
+
+Loops...
+For Loops ... run a finite or limited number of times.
+While Loops...run while a condition is met(or not).

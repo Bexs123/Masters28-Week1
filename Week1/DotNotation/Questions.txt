@@ -1,0 +1,13 @@
+QUESTIONS
+
+Q1. What is the difference between let and const?
+
+let variables can be updated but not re-declared.
+Const variables can neither be updated or re-declared. 
+let can be declared without being initialized. 
+Const must be initialized during declaration.
+
+
+Q2. What mathematical operator returns the remainder?
+
+It is the percentage sign % which is called modulus(Remainder)
