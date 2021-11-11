@@ -11,7 +11,7 @@ let name = "chris";
 let age = 27;
 let favDrink = "coffee"
 
-console.log("hi, my name is " + name + ". I am " + age + " and my favourite drink is " + favDrink+ ".") 
+console.log("hi, my name is " + name + ". I am " + age + " and my favourite drink is " + favDrink + ".") 
 
 //example of Template Literals we can inject variables into strings a lot easier
 let name = "chris";

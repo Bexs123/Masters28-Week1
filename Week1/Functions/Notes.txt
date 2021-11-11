@@ -8,7 +8,7 @@ We can also call on functions to do a job and return the result.
 
 Functions might call on other functions and use that to achieve its goal.
 
-Functions have so far been declared using => arrow function syntax... it's intendedto make it less wordy!
+Functions have so far been declared using => arrow function syntax... it's intended to make it less wordy!
 
 There are other ways...
 function declarations

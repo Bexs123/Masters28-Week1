@@ -7,10 +7,6 @@
 const person = {
     name: "Becky",
     age: "39",
-    sayHi () {
-        return `Hello my name is ${this.name}`;
-    },
-        
 
    songs: [
         "Ramsus - In the shadows",
@@ -43,6 +39,13 @@ const person = {
         "The Ghost Whisperer"
     ]
 };
+
+sayHi = () => {
+    return `Hello my name is ${this.name}`;
+}
+console.log(person.sayHi());
+
+
 
 //console.log using dot notation
 console.log(person.songs)
